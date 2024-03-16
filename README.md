@@ -1,6 +1,6 @@
 hi, i'm [Senior Dev]([https://bohdan.journoportfolio.com/]), a passionate self-taught frontend developer and a freelance software engineer from Poland. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i'm also master of PHP and Ruby on Rails, And experienced enough Devops for CI/CD with Docker, GitLab, Nginx, Linux... 
+i'm also master of PHP and Ruby on Rails, And experienced enough Devops for CI/CD with Docker, Git, Nginx, Linux... 
 i am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
@@ -9,7 +9,8 @@ i am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 - 💼 any freelance work? do reach, [email](monteseniordev@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**languages and tools:** 
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,9 +28,6 @@ i am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ci/ci.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitjub/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitbucket/bitbucket.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -41,7 +39,6 @@ i am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
@@ -50,16 +47,16 @@ i am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         15 hrs 50 mins  ████████░░░░░░░░░░░░░░░░░   17.66 %
+HTML         8 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   17.66 %
 CSS          8  hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   8.6 %
-TypeScript   18 hrs 38 mins  ███████░░░░░░░░░░░░░░░░░░   13.11 %
-JavaScript   1 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   11.90 %
-PHP          24 hrs 20 mins  ██████████░░░░░░░░░░░░░░░   37.25 %
+TypeScript   10 hrs 38 mins  ███████░░░░░░░░░░░░░░░░░░   13.11 %
+JavaScript   8 hr 28 mins    █████▓░░░░░░░░░░░░░░░░░░░   11.90 %
+PHP          11 hrs 20 mins  ██████████░░░░░░░░░░░░░░░   37.25 %
 Swift        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 Docker       1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   1.90 %
-Markup       
+Markup       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   1.90 %
 ```
 
 <!--END_SECTION:waka-->
